@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <title>About Cheng</title>
+    <link rel="stylesheet" href="static/stylesheet/style.css">
+    <script type="application/javascript" src="static/script/script.js"></script>
+    <script>
+        fetch('https://api.doge.fun/hitokoto/')
+            .then(response => response.json())
+            .then(data => {
+                const hitokoto = document.getElementById('hitokoto');
+                hitokoto.innerText = data.hitokoto;
+            })
+            .catch(console.error)
+    </script>
+    <link href="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome/css/all.min.css" media="all" rel="stylesheet">
+</head>
+<body>
+<div class="page">
+    <div id="header">
+        <div class="header_left">
+            <img class="avatar" src="https://source.cdn.byxong.com/avatar/202003142/die.png" alt="AVATAR">
+        </div>
+        <div class="header_right">
+            <div class="white-light hello">
+            <p class="big light" data-light="Hey, it's Cheng~">Hey, it's Cheng~</p>
+            <p class="big light" data-light="好耶，是诚诚~">好耶，是诚诚~</p>
+            </div>
+            <div class="language inline">
+                <span class="block white line-hight-2 labeltitle">Language</span>
+                <p class="box"><i class="fas fa-language"></i> 汉语 漢語 English</p>
+            </div>
+            <div class="location inline">
+                <span class="block white line-hight-2 labeltitle">Location</span>
+                <p class="box"><i class="fas fa-compass"></i> Guilin & Baoding</p>
+            </div>
+            <div class="education inline">
+                <span class="block white line-hight-2 labeltitle">Education</span>
+                <p class="box"><i class="fas fa-school"></i> Undergraduate, Class of 2022, Guilin University of Technology</p>
+            </div>
+            <div class="editor inline">
+                <span class="block white line-hight-2 labeltitle">Editor</span>
+                <p class="box"><i class="fas fa-edit"></i> Jetbrians Idea & Webstorm & PHPStorm & Microsoft Vscode</p>
+            </div>
+            <div class="lang inline">
+                <span class="block white line-hight-2 labeltitle">Lang.</span>
+                <p class="box"><i class="fas fa-laptop-code"></i> Javascript & PHP</p>
+            </div>
+            <div class="platform inline">
+                <span class="block white line-hight-2 labeltitle">Platform</span>
+                <p class="box"><i class="fas fa-desktop"></i> Desktop PC | Windows Manjaro macOS</p>
+            </div>
+            <div class="mdevice inline">
+                <span class="block white line-hight-2 labeltitle">Mobile Device</span>
+                <p class="box"><i class="fas fa-tablet-alt "></i> MIX2S | iPad Pro 10.5+Apple Pencil</p>
+            </div>
+            <div class="as inline">
+                <span class="block white line-hight-2 labeltitle">AS-Operator</span>
+                <p class="box"><i class="fas fa-network-wired"></i> DN42:AS4242420186</p>
+            </div>
+            <div class="broswer inline">
+                <span class="block white line-hight-2 labeltitle">Broswer</span>
+                <p class="box"><i class="fab fa-chrome"></i> Chrouium & <i class="fab fa-safari"></i> Safari</p>
+            </div>
+        </div>
+    </div>
+    <div id="bottom">
+        <div class="coding">
+            <p class="subtitle">Coding</p>
+            <a href="https://github.com/PetCheng" target="_blank">
+                <div class="coding">
+                    <p class="box"><i class="fab fa-github"></i> Github @Cheng</p>
+                    <p class="block black line-hight-2"></p>
+                </div>
+            </a>
+            <a href="https://gitlab.com/iCheng" target="_blank">
+                <div class="coding">
+                    <p class="box"><i class="fab fa-gitlab"></i> Gitlab @Cheng</p>
+                    <p class="block black line-hight-2"></p>
+                </div>
+            </a>
+            <a href="https://git.doge.fun" target="_blank">
+                <div class="coding">
+                    <p class="box"><i class="fab fa-git-alt"></i> SelfGit @Cheng</p>
+                    <s class="block black line-hight-2"></s>
+                </div>
+            </a>
+            <a href="https://codepen.io/milkycheng" target="_blank">
+                <div class="coding">
+                    <p class="box"><i class="fab fa-codepen"></i> CodePen @MilkyCheng</p>
+                    <s class="block black line-hight-2"></s>
+                </div>
+            </a>
+        </div>
+        <div class="social">
+            <p class="subtitle">Social</p>
+            <!--<span class="subtitle black">Media</span>-->
+            <a href="https://twitter.com/MeowCheng_" target="_blank">
+            <div class="twitter">
+                <p class="box"><i class="fab fa-twitter"></i> Twitter @Cheng</p>
+                <p class="block black line-hight-2">发牢骚</p>
+            </div>
+            </a>
+            <a href="https://www.facebook.com/MeowwCheng" target="_blank">
+            <div class="facebook">
+                <p class="box"><i class="fab fa-facebook"></i> Facebook @MilkyCheng</p>
+                <p class="block black line-hight-2">很少用</p>
+            </div>
+            </a>
+            <a href="https://www.plurk.com/ChengQAQ" target="_blank">
+            <div class="plurk">
+                <p class="box"><i class="fas fa-drumstick-bite"></i> Plurk @ChengQAQ</p>
+            </div>
+            </a>
+            <a href="https://blog.byxong.com" target="_blank">
+                <div class="blog">
+                    <p class="box"><i class="fas fa-home"></i> Blog blog.byxong.com</p>
+                </div>
+            </a>
+        </div>
+        <div class="game">
+        <p class="subtitle">Game</p>
+        <div class="cnbattle">
+            <p class="box"><i class="fab fa-battle-net"></i> 战网 @犬小熊#5566</p>
+        </div>
+        
+        <!--<a href="" target="_blank">
+            <div class="steam">
+                <p class="box"><i class="fab fa-steam"></i> Steam @</p>
+                <p class="block black line-hight-2"><i class="fas fa-heart black"></i>SAR</p>
+            </div>
+        </a>
+		-->
+    </div>
+        <div class="media">
+            <p class="subtitle">Media</p>
+            <!--<a href="" target="_blank">
+            <div class="spotify">
+                <p class="box"><i class="fab fa-spotify"></i> Spotify @MilkyCheng</p>
+            </div>
+        </a>
+		-->
+            <a href="https://music.163.com/#/user/home?id=79867696" target="_blank">
+                <div class="neteasecloudmusic">
+                    <p class="box"><i class="fas fa-cloud"></i> CloudMusic @熊诚诚</p>
+                </div>
+            </a>
+        </div>
+        <div class="video">
+            <p class="subtitle">Video</p>
+            <a href="https://www.youtube.com/channel/UCldXlMrY4pz5Ep_B1J-63MA" target="_blank">
+                <div class="youtube">
+                    <p class="box"><i class="fab fa-youtube"></i> Youtube @Meow Cheng</p>
+                </div>
+            </a>
+            <a href="https://www.acfun.cn/u/2211207.aspx" target="_blank">
+                <div class="acfun">
+                    <p class="box">Acfun @熊诚诚</p>
+                </div>
+            </a>
+            <a href="https://space.bilibili.com/7842304" target="_blank">
+                <div class="bilibili">
+                    <p class="box">Bilibili @是诚诚</p>
+                </div>
+            </a>
+        </div>
+        <div class="contact">
+            <p class="subtitle">Contact</p>
+            <a href="https://t.me/PetCheng" target="_blank">
+                <div class="telegram">
+                    <p class="box"><i class="fab fa-telegram"></i> Telegram @Cheng</p>
+                    <p class="block black line-hight-2"><i class="fas fa-heart black"></i>这个常用!</p>
+                </div>
+            </a>
+                <div class="email">
+                    <p class="box" style="user-select: text; -webkit-user-select: text;"><a href="https://www.base64decode.org/" target="_blank" class="black"><i class="fas fa-envelope-square"></i> Email</a> YWRtaW5AYnl4b25nLmNvbQ0K</p>
+                    <a href="https://www.base64decode.org/" target="_blank">
+                    <p class="block black line-hight-2">Base64</p>
+                    </a>
+                </div>
+        </div>
+    </div>
+    <div class="hitokoto">
+        <p class="white" style="padding: .5em .5em .5em .5em;"><i class="far fa-heart white"></i> /Hitokoto <span id="hitokoto" class="white"></span></p>
+    </div>
+    <div class="footer">
+        <p class="white" style="padding: 1em 1em 1em 0; text-align: center">Copyleft <i class="far fa-copyright white"></i><a href="https://github.com/PetCheng/chenghome2020" class="white">Cheng</a> 2020</p>
+    </div>
+</div>
+</body>
+</html>

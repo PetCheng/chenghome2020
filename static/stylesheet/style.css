@@ -1,0 +1,248 @@
+@charset "UTF-8";
+html ,* {
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-family: "Helvetica Neue",Helvetica,Arial,PingFangTC-Light,"Microsoft YaHei",微软雅黑,"STHeiti Light",STXihei,"华文细黑",Heiti,黑体,sans-serif;
+    font-size: 1em;
+    font-weight: 350;
+    line-height: 1.25em;
+    word-break: break-all;
+    -webkit-user-select: none;
+    user-select: none;
+    font-style: normal;
+}
+body {
+    background: url(https://media.doge.fun/static/img/nat-pants.png) center;
+    height: 100%;
+}
+a {
+    text-decoration: none;
+}
+.page {
+    max-width: 64em;
+    height: auto;
+    margin: 1.5em auto;
+    border-radius: 2.5em 0em 0em 2.5em;
+    box-shadow: 0.7vh 0.5vh 0.5vh #424242;
+}
+.name {
+    font-size: 6vh;
+    text-align: center;
+    margin-top: -2vh;
+}
+.white {
+    color: white;
+ }
+.black {
+    color: black;
+}
+.line-hight-2 {
+    line-height: 2em;
+ }
+.inline {
+    display: inline-block;
+    vertical-align: top;
+}
+.big {
+    font-size: 3em;
+}
+.title {
+    font-size: 4vh;
+}
+.subtitle {
+    font-size: 2.5vh;
+    display: inline;
+}
+.avatar {
+    border-radius: 50%;
+    width: 80%;
+    border: 5px solid #ffffff;
+    margin: 10% 10%;
+    box-shadow: 0 0 10px #1d0000;
+    background-color: beige;
+}
+#header {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-template-rows: 100%;
+    background-color: #2980b9;
+    border-radius: 2.5em 0 0 0;
+}
+.header_left,.header_right{
+    display: inline-block;
+    vertical-align: top;
+}
+.header_left {
+    width: auto;
+}
+.header_right {
+    margin: 3vh 1vh;
+}
+.block {
+    display: block;
+}
+.box {
+    background-color: #eee;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    border-radius: 0em .35em .35em 0;
+    line-height: 2.5vh;
+    box-shadow: 0 0 5px rgba(0,0,0,.3);
+    display: inline-block;
+    position: relative;
+    margin: .2em .5em .2em 0;
+}
+.labeltitle {
+    margin-bottom: -.5vh;
+}
+#bottom {
+    width: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 2fr 1fr;
+    background-color: rgba(255,255,255,0.9);
+    /*background: url(https://media.doge.fun/static/img/pixel-heart.png) center;*/
+    padding: 1em 1em 1em 1em;
+}
+#bottom .box {
+    margin-top: .65em;
+    width: auto;
+}
+.hitokoto {
+    background-color: #2ecc71;
+}
+.footer {
+    background-color: #27ae60;
+    border-radius: 0 0 0 2.5em;
+}
+.contact .email {
+    -webkit-user-select: auto;
+    user-select: auto;
+}
+.white-light > p {
+    color: #333;
+    position: relative;
+}
+.white-light > p::after {
+    content: attr(data-light);
+    position: absolute;
+    color: white;
+    top: 0;
+    left: 0;
+    -webkit-clip-path: ellipse(100px 100px at 0% 50%);
+    clip-path: ellipse(100px 100px at 0% 50%);
+    animation: light 3s infinite;
+}
+.color-light > p {
+    color: #333;
+    position: relative;
+}
+.color-light > p::after {
+    content: attr(data-light);
+    position: absolute;
+    color: transparent;
+    top: 0;
+    left: 0;
+    background-image: url(https://media.doge.fun/static/img/bg-light.jpg);
+    background-size: 150%;
+    background-position: center center;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-clip-path: ellipse(100px 100px at 0% 50%);
+    clip-path: ellipse(100px 100px at 0% 50%);
+    animation: light 3s infinite;
+}
+@keyframes light {
+    0% {
+        -webkit-clip-path: ellipse(100px 100px at 0% 50%);
+        clip-path: ellipse(100px 100px at 0% 50%);
+    }
+    50% {
+        -webkit-clip-path: ellipse(100px 100px at 100% 50%);
+        clip-path: ellipse(100px 100px at 100% 50%);
+    }
+    100% {
+        -webkit-clip-path: ellipse(100px 100px at 0% 50%);
+        clip-path: ellipse(100px 100px at 0% 50%);
+    }
+}
+@media (max-width:768px) {
+    * {
+        font-size: 2vh;
+    }
+    .page {
+        width: 90%;
+        margin: 5% 5%;
+    }
+    #header {
+        display: block;
+    }
+    #bottom {
+        display: block;
+    }
+    .header_left {
+        width: 100%;
+    }
+    .avatar {
+        width: 70%;
+        margin: 15% 15%;
+    }
+    .name {
+        margin-top: -10vh;
+        font-size: 10vh;
+    }
+    .light {
+        font-size: 6vh;
+    }
+    .big .title {
+        font-size: 6vh;
+    }
+    .subtitle {
+        font-size: 3vh;
+         display: block;
+     }
+    .hello {
+        margin-top: -4vh;
+    }
+}
+@media(prefers-color-scheme: dark) {
+    body {
+        background: url(https://media.doge.fun/static/img/nat-pants.png) rgba(0, 0, 0, .7) center;
+        background-blend-mode: multiply;
+    }
+    .page {
+        box-shadow: 0.7vh 0.5vh 0.5vh #161616;
+    }
+    .avatar {
+        background-color: rgba(18, 18, 18, 0);
+        border: 0;
+        box-shadow: 0 0 0 #1d0000;
+    }
+    .box {
+        color: white;
+        background-color: #333333;
+        box-shadow: 0 0 5px rgba(255,255,255,.2);
+    }
+    .black {
+        color: white;
+    }
+    #header {
+        background-color: rgba(18, 18, 18, 0.92);
+    }
+    #bottom {
+        background-color: rgba(18, 18, 18, 0.9);
+    }
+    #bottom p {
+        color: white;
+    }
+    i {
+        color: white;
+    }
+    .hitokoto {
+        background-color: rgba(18, 18, 18, 0.9);
+    }
+    .footer {
+        background-color: rgba(18, 18, 18, 0.9);
+        border-radius: 0 0 0 2.5em;
+    }
+}

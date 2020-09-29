@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98fe7a2a-cb6f-4135-b487-56ca6b13771b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="page" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZhCkaoOKXRmW5U97xgkKAAmg9W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/chenghome2020/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98fe7a2a-cb6f-4135-b487-56ca6b13771b" name="Default Changelist" comment="" />
+      <created>1585282082250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585282082250</updated>
+      <workItem from="1585282084530" duration="540000" />
+      <workItem from="1585282655039" duration="3237000" />
+      <workItem from="1585297943292" duration="9719000" />
+      <workItem from="1585364305598" duration="6616000" />
+      <workItem from="1585648715586" duration="65000" />
+      <workItem from="1585648926510" duration="13186000" />
+      <workItem from="1585745896093" duration="19000" />
+      <workItem from="1585750813152" duration="2300000" />
+      <workItem from="1585754332578" duration="1917000" />
+      <workItem from="1585816579209" duration="857000" />
+      <workItem from="1585817458181" duration="4075000" />
+      <workItem from="1586483831365" duration="87000" />
+      <workItem from="1586483983740" duration="1446000" />
+    </task>
+    <task id="LOCAL-00001" summary="UpdateClass">
+      <created>1586484760874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586484760874</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="UpdateClass" />
+    <option name="LAST_COMMIT_MESSAGE" value="UpdateClass" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="935" y="258" key="#Chrome_Settings" timestamp="1585282451871">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="935" y="258" key="#Chrome_Settings/0.0.1920.1035@0.0.1920.1035" timestamp="1585282451871" />
+    <state x="935" y="258" key="#Web_Browsers" timestamp="1585282496811">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="935" y="258" key="#Web_Browsers/0.0.1920.1035@0.0.1920.1035" timestamp="1585282496811" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586484061409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586484061409" />
+    <state x="683" y="199" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585282136822">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="683" y="199" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1035@0.0.1920.1035" timestamp="1585282136822" />
+    <state x="901" y="146" key="CommitChangelistDialog2" timestamp="1586484759603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="901" y="146" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586484759603" />
+    <state x="1123" y="354" key="FileChooserDialogImpl" timestamp="1585282495594">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="1123" y="354" key="FileChooserDialogImpl/0.0.1920.1035@0.0.1920.1035" timestamp="1585282495594" />
+    <state width="1200" height="91" key="GridCell.Tab.0.bottom" timestamp="1586520398987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1200" height="91" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586520398986" />
+    <state width="1200" height="91" key="GridCell.Tab.0.center" timestamp="1586520398985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1200" height="91" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586520398985" />
+    <state width="1200" height="91" key="GridCell.Tab.0.left" timestamp="1586520398984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1200" height="91" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586520398984" />
+    <state width="1200" height="91" key="GridCell.Tab.0.right" timestamp="1586520398986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1200" height="91" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586520398986" />
+    <state width="1200" height="91" key="GridCell.Tab.1.bottom" timestamp="1586520398987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1200" height="91" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586520398987" />
+    <state width="1200" height="91" key="GridCell.Tab.1.center" timestamp="1586520398987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1200" height="91" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586520398987" />
+    <state width="1200" height="91" key="GridCell.Tab.1.left" timestamp="1586520398987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1200" height="91" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586520398987" />
+    <state width="1200" height="91" key="GridCell.Tab.1.right" timestamp="1586520398987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1200" height="91" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586520398987" />
+    <state width="1200" height="91" key="GridCell.Tab.2.bottom" timestamp="1586520398987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1200" height="91" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586520398987" />
+    <state width="1200" height="91" key="GridCell.Tab.2.center" timestamp="1586520398987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1200" height="91" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586520398987" />
+    <state width="1200" height="91" key="GridCell.Tab.2.left" timestamp="1586520398987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1200" height="91" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586520398987" />
+    <state width="1200" height="91" key="GridCell.Tab.2.right" timestamp="1586520398987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1200" height="91" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586520398987" />
+    <state width="1200" height="91" key="GridCell.Tab.3.bottom" timestamp="1586520398988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1200" height="91" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586520398988" />
+    <state width="1200" height="91" key="GridCell.Tab.3.center" timestamp="1586520398988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1200" height="91" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586520398988" />
+    <state width="1200" height="91" key="GridCell.Tab.3.left" timestamp="1586520398988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1200" height="91" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586520398988" />
+    <state width="1200" height="91" key="GridCell.Tab.3.right" timestamp="1586520398988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1200" height="91" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586520398988" />
+    <state x="922" y="213" key="SettingsEditor" timestamp="1585649026319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="213" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585649026319" />
+    <state x="651" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1585364343124">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="651" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1035@0.0.1920.1035" timestamp="1585364343124" />
+    <state x="1269" y="178" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585284818772">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="1269" y="178" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1035@0.0.1920.1035" timestamp="1585284818772" />
+    <state x="1085" y="491" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586484831805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1085" y="491" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586484831805" />
+    <state x="624" y="237" key="run.anything.popup" timestamp="1585821022276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="236" key="run.anything.popup/0.0.1920.1035@0.0.1920.1035" timestamp="1585301093336" />
+    <state x="624" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585821022276" />
+    <state x="809" y="308" width="672" height="678" key="search.everywhere.popup" timestamp="1585818080939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="809" y="308" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585818080939" />
+  </component>
+</project>
